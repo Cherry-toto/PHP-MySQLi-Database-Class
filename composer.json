@@ -2,6 +2,7 @@
     "name": "rmc0863/mysqli-database-class",
     "description": "PHP MySQL Wrapper and object mapper which utilizes MySQLi and prepared statements",
     "license": "GPL-3.0-or-later",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Josh Campbell",
